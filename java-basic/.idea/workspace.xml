@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/class1/ClassStart1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ClassStart2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ClassStart3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ClassStart4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ClassStart5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ex/MovieReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ex/MovieReviewMain1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ex/MovieReviewMain2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ex/ProductOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/ex/ProductOrderMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/Method1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/MethodChange1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/MethodChange2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/VarChange1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/VarChange2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/Array1Ref1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/Array1Ref2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/Array1Ref3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/Array1Ref4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ArrayDi0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ArrayDi1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ArrayDi2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ArrayDi3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ArrayDi4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/EnhancedFor1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx1Ref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ArrayEx8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/array/ex/ProductAdminEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/casting/Casting1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/casting/Casting2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/casting/Casting3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/casting/Casting4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/CondOp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/CondOp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/CondOpEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/DistanceEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/EvenOddEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/ExchangeRateEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/GradeSwitchEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/MovieRateEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/cond/ScoreEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/Break1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/Break2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/Break3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/Continue1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/DoWhile1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/DoWhile2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/For1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/For2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/Nested1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/While1_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/While1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/While2_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/While2_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/While2_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/ForEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/ForEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/ForEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/NestedEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/NestedEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/WhileEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/WhileEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/loop/ex/WhileEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/Method1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/Method1Ref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/Method2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodCasting1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodCasting2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodReturn1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodReturn2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodValue0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodValue1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodValue2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/MethodValue3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/Overloading1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/Overloading2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/Overloading3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx1Ref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx2Ref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx3Ref.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/method/ex/MethodEx4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/Scanner1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/Scanner2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/Scanner3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ScannerWhile1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ScannerWhile2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ScannerWhile3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ChangeVarEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerEx4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerEx5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerWhileEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerWhileEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerWhileEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scanner/ex/ScannerWhileEx4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scope/Scope1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scope/Scope2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scope/Scope3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/scope/Scope3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/variable/Var1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/variable/Var2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/variable/Var3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/variable/Var7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-start/variable/Var8.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2q9LEgLTupkkjgx1OaaMo9nrQP2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClassStart1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/pym/git/first-java/java-basic"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClassStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart1" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassStart1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
+      <created>1734069734068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734069734068</updated>
+    </task>
+    <servers />
+  </component>
+</project>
