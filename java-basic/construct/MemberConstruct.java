@@ -7,9 +7,7 @@ public class MemberConstruct {
 
     //추가
     MemberConstruct(String name, int age) {
-        this.name = name;
-        this.age = age;
-        this.grade = 50;
+        this(name, age, 50); //변경
     }
 
     MemberConstruct(String name, int age, int grade){
