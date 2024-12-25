@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/access/ex/CounterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access/ex/MaxCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access/ex/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/access/ex/ShoppingCartMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/construct/MemberConstruct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-basic/construct/MemberConstruct.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,10 +40,12 @@
   "keyToString": {
     "Application.ClassStart1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
+    "Application.CounterMain.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
     "Application.MusicPlayerMain1.executor": "Run",
     "Application.MusicPlayerMain2.executor": "Run",
     "Application.MusicPlayerMain3.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,13 +60,26 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructMain2">
+  <component name="RunManager" selected="Application.ShoppingCartMain">
     <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="construct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.ex.CounterMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="access.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,25 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlayerMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain2" />
+    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.ex.ShoppingCartMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValueDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop1.ValueDataMain" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop1.*" />
+          <option name="PATTERN" value="access.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShoppingCartMain" />
+        <item itemvalue="Application.CounterMain" />
         <item itemvalue="Application.ConstructMain2" />
         <item itemvalue="Application.MemberDefaultMain" />
         <item itemvalue="Application.ValueObjectMain" />
-        <item itemvalue="Application.ValueDataMain" />
-        <item itemvalue="Application.MusicPlayerMain2" />
       </list>
     </recent_temporary>
   </component>
