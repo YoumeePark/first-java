@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/memory/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory/JavaMemoryMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory/JavaMemoryMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static1/DataCountMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +40,8 @@
     "Application.ClassStart1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
     "Application.CounterMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
@@ -59,13 +63,13 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaMemoryMain2">
-    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
+  <component name="RunManager" selected="Application.DataCountMain2">
+    <configuration name="DataCountMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.CounterMain" />
+    <configuration name="DataCountMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataCountMain2" />
+        <item itemvalue="Application.DataCountMain1" />
         <item itemvalue="Application.JavaMemoryMain2" />
         <item itemvalue="Application.JavaMemoryMain1" />
         <item itemvalue="Application.ShoppingCartMain" />
-        <item itemvalue="Application.CounterMain" />
-        <item itemvalue="Application.ConstructMain2" />
       </list>
     </recent_temporary>
   </component>
