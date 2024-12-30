@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/final1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/ConstantMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/ConstantMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/ConstructInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/FieldInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/FinalFieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/FinalLocalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/FinalRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/ex/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final1/ex/MemberMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static2/ex/MathArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/ex1/ElectricCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
