@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extends1/ex1/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/ex1/GasCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extends1/ex1/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/extends1/ex1/ElectricCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CarMain.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ConstantMain1.executor": "Run",
     "Application.ConstantMain2.executor": "Run",
@@ -66,7 +70,20 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemberMain">
+  <component name="RunManager" selected="Application.CarMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex1.CarMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends1.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
       <module name="java-basic" />
@@ -82,19 +99,6 @@
     </configuration>
     <configuration name="ConstantMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="final1.ConstantMain2" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="final1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.FinalFieldMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.MemberMain" />
         <item itemvalue="Application.FinalRefMain" />
         <item itemvalue="Application.ConstantMain2" />
         <item itemvalue="Application.ConstantMain1" />
-        <item itemvalue="Application.FinalFieldMain" />
       </list>
     </recent_temporary>
   </component>
