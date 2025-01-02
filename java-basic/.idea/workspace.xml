@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extends1/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/ex1/GasCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extends1/ex1/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/extends1/ex1/ElectricCar.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,36 +28,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CarMain.executor": "Run",
-    "Application.ClassStart1.executor": "Run",
-    "Application.ConstantMain1.executor": "Run",
-    "Application.ConstantMain2.executor": "Run",
-    "Application.ConstructMain2.executor": "Run",
-    "Application.CounterMain.executor": "Run",
-    "Application.DataCountMain1.executor": "Run",
-    "Application.DataCountMain2.executor": "Run",
-    "Application.FinalFieldMain.executor": "Run",
-    "Application.FinalLocalMain.executor": "Run",
-    "Application.FinalRefMain.executor": "Run",
-    "Application.JavaMemoryMain1.executor": "Run",
-    "Application.JavaMemoryMain2.executor": "Run",
-    "Application.MathArrayUtilsMain.executor": "Run",
-    "Application.MemberDefaultMain.executor": "Run",
-    "Application.MemberMain.executor": "Run",
-    "Application.MusicPlayerMain1.executor": "Run",
-    "Application.MusicPlayerMain2.executor": "Run",
-    "Application.MusicPlayerMain3.executor": "Run",
-    "Application.ShoppingCartMain.executor": "Run",
-    "Application.ValueDataMain.executor": "Run",
-    "Application.ValueObjectMain.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/pym/git/first-java/java-basic"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstantMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstantMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataCountMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalFieldMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalLocalMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalRefMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaMemoryMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaMemoryMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathArrayUtilsMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberDefaultMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlayerMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShoppingCartMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pym/git/first-java/java-basic&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="final1" />
