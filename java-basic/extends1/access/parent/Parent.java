@@ -10,7 +10,7 @@ public class Parent {
         System.out.println("Parent.publicMethod");
     }
 
-    private void protectedMethod() {
+    protected void protectedMethod() {
         System.out.println("Parent.protectedMethod");
     }
 

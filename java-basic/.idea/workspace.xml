@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/extends1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extends1/super2/Super2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extends1/access/child/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/extends1/access/child/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extends1/access/parent/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/extends1/access/parent/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/extends1/access/parent/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-basic/extends1/access/parent/Parent.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,36 +41,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstantMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstantMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CounterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataCountMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataCountMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalFieldMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalLocalMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalRefMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaMemoryMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaMemoryMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathArrayUtilsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MemberDefaultMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MemberMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShoppingCartMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/pym/git/first-java/java-basic&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CarMain.executor": "Run",
+    "Application.ClassStart1.executor": "Run",
+    "Application.ConstantMain1.executor": "Run",
+    "Application.ConstantMain2.executor": "Run",
+    "Application.ConstructMain2.executor": "Run",
+    "Application.CounterMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.ExtendsAccessMain.executor": "Run",
+    "Application.FinalFieldMain.executor": "Run",
+    "Application.FinalLocalMain.executor": "Run",
+    "Application.FinalRefMain.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
+    "Application.MathArrayUtilsMain.executor": "Run",
+    "Application.MemberDefaultMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
+    "Application.MusicPlayerMain1.executor": "Run",
+    "Application.MusicPlayerMain2.executor": "Run",
+    "Application.MusicPlayerMain3.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
+    "Application.Super1Main.executor": "Run",
+    "Application.Super2Main.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/pym/git/first-java/java-basic"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="final1" />
@@ -65,7 +81,7 @@
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarMain">
+  <component name="RunManager" selected="Application.Super2Main">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends1.ex1.CarMain" />
       <module name="java-basic" />
@@ -79,38 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
+    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="final1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstantMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain2" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="final1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.FinalRefMain" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="final1.*" />
+          <option name="PATTERN" value="extends1.access.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,13 +121,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends1.super1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super2.Super2Main" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends1.super2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Super2Main" />
+        <item itemvalue="Application.Super1Main" />
+        <item itemvalue="Application.ExtendsAccessMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.MemberMain" />
-        <item itemvalue="Application.FinalRefMain" />
-        <item itemvalue="Application.ConstantMain2" />
-        <item itemvalue="Application.ConstantMain1" />
       </list>
     </recent_temporary>
   </component>
