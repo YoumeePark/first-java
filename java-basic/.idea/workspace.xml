@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/poly/ex2/AnimalPolyMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex2/AnimalPolyMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimalPolyMain2.executor": "Run",
     "Application.CarMain.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ConstantMain1.executor": "Run",
@@ -64,18 +69,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex2" />
       <recent name="final1" />
       <recent name="construct" />
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PolyMain">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.ex1.CarMain" />
+  <component name="RunManager" selected="Application.AnimalPolyMain3">
+    <configuration name="AnimalPolyMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.ex1.*" />
+          <option name="PATTERN" value="poly.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
+    <configuration name="AnimalPolyMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain3" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.access.*" />
+          <option name="PATTERN" value="poly.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalPolyMain3" />
+        <item itemvalue="Application.AnimalPolyMain2" />
         <item itemvalue="Application.PolyMain" />
         <item itemvalue="Application.Super2Main" />
         <item itemvalue="Application.Super1Main" />
-        <item itemvalue="Application.ExtendsAccessMain" />
-        <item itemvalue="Application.CarMain" />
       </list>
     </recent_temporary>
   </component>
