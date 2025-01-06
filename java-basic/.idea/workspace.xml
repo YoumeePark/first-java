@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/poly/ex2/AnimalPolyMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex2/AnimalPolyMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnimalPolyMain2.executor": "Run",
+    "Application.AnimalPolyMain3.executor": "Run",
     "Application.CarMain.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ConstantMain1.executor": "Run",
