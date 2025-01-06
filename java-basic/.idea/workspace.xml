@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extends1/access/ExtendsAccessMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super1/Super1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super2/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extends1/super2/Super2Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extends1/access/child/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/extends1/access/child/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extends1/access/parent/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/extends1/access/parent/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/extends1/access/parent/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-basic/extends1/access/parent/Parent.class" afterDir="false" />
-    </list>
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
