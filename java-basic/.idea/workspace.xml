@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/poly/ex4/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex4/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex4/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex4/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex4/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex5/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex5/InterfaceAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/ex5/InterfaceMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poly/ex3/AbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/ex3/AbstractMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poly/ex3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/ex3/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poly/ex3/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/ex3/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poly/ex3/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/poly/ex3/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,6 +53,7 @@
     "Application.FinalFieldMain.executor": "Run",
     "Application.FinalLocalMain.executor": "Run",
     "Application.FinalRefMain.executor": "Run",
+    "Application.InterfaceMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.JavaMemoryMain2.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
@@ -82,13 +80,14 @@
       <recent name="D:\pym\git\first-java\java-basic\poly\ex4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex5" />
       <recent name="poly.ex2" />
       <recent name="final1" />
       <recent name="construct" />
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.poly.ex4.AbstractMain">
+  <component name="RunManager" selected="Application.InterfaceMain">
     <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
       <module name="java-basic" />
@@ -128,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.PolyMain" />
+    <configuration name="InterfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex5.InterfaceMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.poly.ex4.AbstractMain" />
         <item itemvalue="Application.AbstractMain" />
         <item itemvalue="Application.AnimalPolyMain3" />
         <item itemvalue="Application.AnimalPolyMain2" />
-        <item itemvalue="Application.PolyMain" />
       </list>
     </recent_temporary>
   </component>
