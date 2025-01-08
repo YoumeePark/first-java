@@ -1,6 +1,4 @@
-package poly.ex3;
-
-import poly.ex2.Animal;
+package poly.ex4;
 
 public class AbstractMain {
     public static void main(String[] args) {
@@ -11,12 +9,13 @@ public class AbstractMain {
         Cat cat = new Cat();
         Cow cow = new Cow();
 
-        cat.sound();
-        cat.move();
-
         soundAnimal(dog);
         soundAnimal(cat);
         soundAnimal(cow);
+
+        moveAnimal(dog);
+        moveAnimal(cat);
+        moveAnimal(cow);
     }
 
     //동물이 추가 되어도 변하지 않는 코드
@@ -24,5 +23,12 @@ public class AbstractMain {
         System.out.println("동물 소리 테스트 시작");
         animal.sound();
         System.out.println("동물 소리 테스트 종료");
+    }
+
+    //동물이 추가 되어도 변하지 않는 코드
+    private static void moveAnimal(AbstractAnimal animal) {
+        System.out.println("동물 이동 테스트 시작");
+        animal.move();
+        System.out.println("동물 이동 테스트 종료");
     }
 }
