@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/poly/car0/CarMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car0/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poly/car1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -35,6 +42,7 @@
     "Application.AnimalPolyMain2.executor": "Run",
     "Application.AnimalPolyMain3.executor": "Run",
     "Application.CarMain.executor": "Run",
+    "Application.CarMain0.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ConstantMain1.executor": "Run",
     "Application.ConstantMain2.executor": "Run",
@@ -82,13 +90,13 @@
       <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SoundFlyMain">
-    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
+  <component name="RunManager" selected="Application.CarMain0">
+    <configuration name="CarMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.car0.CarMain0" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex3.*" />
+          <option name="PATTERN" value="poly.car0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain0" />
         <item itemvalue="Application.SoundFlyMain" />
         <item itemvalue="Application.DiamondMain" />
         <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.poly.ex4.AbstractMain" />
-        <item itemvalue="Application.AbstractMain" />
       </list>
     </recent_temporary>
   </component>
