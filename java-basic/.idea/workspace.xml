@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/car1/CarMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/car1/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/car1/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/car1/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay0/KakaoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay0/NaverPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay0/PayMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay0/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/sender/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/sender/FacebookSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/sender/SendMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/sender/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/sender/SmsSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
