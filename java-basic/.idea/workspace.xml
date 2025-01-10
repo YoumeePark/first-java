@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1454b87-f469-4cdb-90bc-3a18a4976ed5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/DefaultPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/KakaoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/NaverPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/NewPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/PayMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/PayMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poly/ex/pay1/PayStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
