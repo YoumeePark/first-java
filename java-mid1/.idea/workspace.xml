@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b7ebd21-8c64-4c55-b423-78e6489b9152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/object/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/ObjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +36,20 @@
     "Application.Main.executor": "Run",
     "Application.ObjectMain.executor": "Run",
     "Application.ObjectPolyExample1.executor": "Run",
+    "Application.ObjectPolyExample2.executor": "Run",
+    "Application.ToStringMain1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/pym/git/first-java/java-mid1/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ObjectPolyExample1">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.object.poly" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ToStringMain1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java-mid1" />
@@ -80,8 +83,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectPolyExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.poly.ObjectPolyExample2" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.object.poly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToStringMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.tostring.ToStringMain1" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.object.tostring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToStringMain1" />
+        <item itemvalue="Application.ObjectPolyExample2" />
         <item itemvalue="Application.ObjectPolyExample1" />
         <item itemvalue="Application.ObjectMain" />
         <item itemvalue="Application.Main" />
