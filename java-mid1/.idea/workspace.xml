@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b7ebd21-8c64-4c55-b423-78e6489b9152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,26 +23,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2rQIy03YjK0yIJNpkejyIWp2eGk" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.ObjectMain.executor": "Run",
-    "Application.ObjectPolyExample1.executor": "Run",
-    "Application.ObjectPolyExample2.executor": "Run",
-    "Application.ToStringMain1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/pym/git/first-java/java-mid1/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectPolyExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectPolyExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToStringMain1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/pym/git/first-java/java-mid1/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lang.object.poly" />
