@@ -1,4 +1,4 @@
-package lang.object;
+package src.lang.object;
 
 public class Child extends Parent{
     public void childMethod() {

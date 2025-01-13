@@ -1,4 +1,4 @@
-package lang.object;
+package src.lang.object;
 
 public class ObjectMain {
     public static void main(String[] args) {

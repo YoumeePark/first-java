@@ -1,4 +1,4 @@
-package lang.object.tostring;
+package src.lang.object.tostring;
 
 public class ToStringMain1 {
     public static void main(String[] args) {
