@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b7ebd21-8c64-4c55-b423-78e6489b9152" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/out/production/java-basic/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-basic/out/production/java-basic/.idea/misc.xml" beforeDir="false" />
@@ -245,7 +240,6 @@
       <change beforePath="$PROJECT_DIR$/../out/production/first-java/out/production/java-basic/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/first-java/out/production/java-basic/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/first-java/out/production/java-basic/java-basic.iml" beforeDir="false" />
->>>>>>> 952f3f7a14ce2ef8f20c86db59cea8ef22125ea3
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +292,6 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lang.object.tostring" />
       <recent name="lang.object.poly" />
     </key>
   </component>
