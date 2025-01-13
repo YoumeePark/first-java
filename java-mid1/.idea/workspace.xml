@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b7ebd21-8c64-4c55-b423-78e6489b9152" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +46,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.object.tostring" />
       <recent name="lang.object.poly" />
     </key>
   </component>
