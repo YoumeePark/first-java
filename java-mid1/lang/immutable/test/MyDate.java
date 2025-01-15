@@ -1,4 +1,4 @@
-package lang.imutable.test;
+package lang.immutable.test;
 
 public class MyDate {
     private int year;

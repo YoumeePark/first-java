@@ -1,4 +1,4 @@
-package lang.imutable.address;
+package lang.immutable.address;
 
 public class RefMain2 {
     public static void main(String[] args) {

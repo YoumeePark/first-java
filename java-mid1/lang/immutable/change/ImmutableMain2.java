@@ -1,4 +1,4 @@
-package lang.imutable.change;
+package lang.immutable.change;
 
 public class ImmutableMain2 {
     public static void main(String[] args) {

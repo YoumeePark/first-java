@@ -1,4 +1,4 @@
-package lang.imutable.test;
+package lang.immutable.test;
 
 public class ImmutableMyDateMain {
     public static void main(String[] args) {
