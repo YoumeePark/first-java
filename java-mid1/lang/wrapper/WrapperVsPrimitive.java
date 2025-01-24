@@ -14,5 +14,15 @@ public class WrapperVsPrimitive {
         endTime = System.currentTimeMillis();
         System.out.println("sumPrimitive = " + sumPrimitive);
         System.out.println("기본 자료형 long 실행 시간: " + (endTime - startTime) + "ms");
+
+        //래퍼 클래스 Long 사용
+        Long sumWrapper = 0L;
+        startTime = System.currentTimeMillis();
+        for (int i = 0; i < iterations; i++) {
+            sumWrapper += i; //오토 박싱 발생
+        }
+        endTime = System.currentTimeMillis();
+        System.out.println("sumWrapper = " + sumWrapper);
+        System.out.println("래퍼 클래스 Long 실행 시간: " + (endTime - startTime) + "ms");
     }
 }
