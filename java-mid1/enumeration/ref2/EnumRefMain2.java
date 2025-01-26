@@ -1,6 +1,6 @@
-package enumeration.ex3;
+package enumeration.ref2;
 
-public class StringGradeEx3_1 {
+public class EnumRefMain2 {
     public static void main(String[] args) {
         int price = 10000;
 
