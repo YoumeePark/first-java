@@ -22,4 +22,8 @@ public class Service {
     public void catchThrow() throws MyCheckedException{
         client.call();
     }
+
+    public void callThrow() throws MyCheckedException{
+        client.call();
+    }
 }
