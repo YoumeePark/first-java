@@ -48,6 +48,6 @@ public class MyArrayListV1 {
         //[1,2,3,null,null] //size = 3
         //[1,2,3] //size = 3
         return Arrays.toString(Arrays.copyOf(elementData, size)) +
-                "size=" + size + ", capacity" + elementData.length;
+                " size=" + size + ", capacity" + elementData.length;
     }
 }
