@@ -42,6 +42,7 @@ public class MyPrinterV1 {
             }
             log("프린터 종료");
         }
+
         public void addJob(String input) {
             jobQueue.offer(input);
         }
