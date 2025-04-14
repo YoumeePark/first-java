@@ -37,7 +37,7 @@ public class MyPrinterV3 {
                     String job = jobQueue.poll();
                     log("출력 시작: " + job + ", 대기 문서: " + jobQueue);
                     Thread.sleep(3000); //출력에 걸리는 시간
-                    log("출력 완료");
+                    log("출력 완료: " + job);
                 } catch (InterruptedException e) {
                     log("인터럽트!");
                     break;
