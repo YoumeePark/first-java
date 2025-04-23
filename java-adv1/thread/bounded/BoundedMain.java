@@ -20,12 +20,20 @@ public class BoundedMain {
         log("== [생산자 먼저 실행] 시작, " + queue.getClass().getSimpleName() + " ==");
         List<Thread> threads = new ArrayList<>();
         startProducer(queue, threads);
-
+        printAllState(queue, threads);
+        startConsumer(queue, threads);
+        printAllState(queue, threads);
+        log("== [생산자 먼저 실행] 종료, " + queue.getClass().getSimpleName() + " ==");
     }
 
     private static void consumerFirst(BoundedQueue queue) {
         log("== [소비자 먼저 실행] 시작, " + queue.getClass().getSimpleName() + " ==");
         List<Thread> threads = new ArrayList<>();
+        startConsumer(queue, threads);
+        printAllState(queue, threads);
+        startProducer(queue, threads);
+        printAllState(queue, threads);
+        log("== [소비자 먼저 실행] 종료, " + queue.getClass().getSimpleName() + " ==");
     }
 
     private static void startProducer(BoundedQueue queue, List<Thread> threads) {
