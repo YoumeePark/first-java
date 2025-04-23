@@ -18,6 +18,7 @@ public class BoundedQueueV1 implements BoundedQueue{
     public synchronized void put(String data) {
         if (queue.size() == max) {
             log("[put] 큐가 가득 참, 버림: " + data);
+            return;
         }
         queue.offer(data);
     }
