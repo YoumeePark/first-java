@@ -17,7 +17,7 @@ public class BoundedQueueV2 implements BoundedQueue{
 
     @Override
     public synchronized void put(String data) {
-        if (queue.size() == max) {
+        while (queue.size() == max) {
             log("[put] 큐가 가득 참, 생산자 대기");
             sleep(1000);
         }
