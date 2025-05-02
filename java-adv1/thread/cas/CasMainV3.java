@@ -47,6 +47,9 @@ public class CasMainV3 {
             result = atomicInteger.compareAndSet(getValue, getValue + 1);
             log("result: " + result);
         } while (!result);
+
+        // 다른 스레드가 값을 변경할 수 있기 때문에
+        // atomicInteger.get()이 아닌 getValue + 1
         return getValue + 1;
     }
 }
