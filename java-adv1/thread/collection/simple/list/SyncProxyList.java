@@ -8,7 +8,6 @@ public class SyncProxyList implements SimpleList {
         this.target = target;
     }
 
-
     @Override
     public synchronized void add(Object e) {
         target.add(e);
