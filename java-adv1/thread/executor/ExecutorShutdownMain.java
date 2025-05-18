@@ -35,7 +35,7 @@ public class ExecutorShutdownMain {
                     log("서비스가 종료되지 않았습니다.");
                 }
             }
-        } catch (InterruptedException ex) {
+        } catch (InterruptedException e) {
             //awaitTermination()으로 대기중인 현재 스레드가 인터럽트 될 수 있다.
             es.shutdownNow();
         }
