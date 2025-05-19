@@ -9,9 +9,9 @@ import static util.MyLogger.log;
 
 public class PoolSizeMainV4 {
 
-    static final int TASK_SIZE = 1100;   // 1. 일반
+    //static final int TASK_SIZE = 1100;   // 1. 일반
     //static final int TASK_SIZE = 1200; // 2. 긴급
-    //static final int TASK_SIZE = 1201; // 3. 거절
+    static final int TASK_SIZE = 1201; // 3. 거절
 
     public static void main(String[] args) throws InterruptedException {
         ExecutorService es = new ThreadPoolExecutor(100,
@@ -20,7 +20,7 @@ public class PoolSizeMainV4 {
 
         long startMs = System.currentTimeMillis();
 
-        for (int i = 1; i < TASK_SIZE; i++) {
+        for (int i = 1; i <= TASK_SIZE; i++) {
             String taskName = "task" + i;
             try {
                 es.execute(new RunnableTask(taskName));
