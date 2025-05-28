@@ -39,7 +39,7 @@ public class ResourceCloseMainV3 {
                 try {
                     resource1.closeEx();
                 } catch (CloseException e) {
-                    System.out.println("close es: " + e);
+                    System.out.println("close ex: " + e);
                 }
             }
         }
