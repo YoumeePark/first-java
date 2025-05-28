@@ -29,7 +29,7 @@ public class ResourceCloseMainV3 {
         } finally {
             if (resource2 != null) {
                 try {
-                    resource2.closeEx();
+                    resource2.closeEx(); // CloseException 발생
                 } catch (CloseException e) {
                     // close()에서 발생한 예외는 버린다. 필요하면 로깅 정도
                     System.out.println("close ex: " + e);
