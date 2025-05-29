@@ -42,7 +42,6 @@ public class SessionV6 implements Runnable{
                 output.writeUTF(toSend);
                 log("client <- server: " + toSend);
             }
-            // 자원 정리
         } catch (IOException e) {
             log(e);
         } finally {
