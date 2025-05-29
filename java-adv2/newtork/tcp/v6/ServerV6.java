@@ -20,13 +20,17 @@ public class ServerV6 {
         // ShutdownHook 등록
         ShutdownHook shutdownHook = new ShutdownHook(serverSocket, sessionManager);
         Runtime.getRuntime().addShutdownHook(new Thread(shutdownHook, "shutdown"));
-        while (true) {
-            Socket socket = serverSocket.accept(); // 블로킹
-            log("소켓 연결: " + socket);
+        try {
+            while (true) {
+                Socket socket = serverSocket.accept(); // 블로킹
+                log("소켓 연결: " + socket);
 
-            SessionV5 session = new SessionV5(socket);
-            Thread thread = new Thread(session);
-            thread.start();
+                SessionV6 session = new SessionV6(socket, sessionManager);
+                Thread thread = new Thread(session);
+                thread.start();
+            }
+        } catch (IOException e) {
+            log("서버 소캣 종료: " + e);
         }
     }
 
