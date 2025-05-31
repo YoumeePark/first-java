@@ -5,6 +5,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 
+import static newtork.tcp.SocketCloseUtil.closeAll;
 import static util.MyLogger.log;
 
 public class Session implements Runnable {
@@ -39,6 +40,32 @@ public class Session implements Runnable {
             }
         } catch (IOException e) {
             log(e);
+        } finally {
+            sessionManager.remove(this);
+            sessionManager.sendAll(username + "님이 퇴장했습니다.");
+            close();
         }
+    }
+
+    public void send(String message) throws IOException {
+        log("server -> client: " + message);
+        output.writeUTF(message);
+    }
+
+    public synchronized void close() {
+        if (closed) {
+            return;
+        }
+        closeAll(socket, input, output);
+        closed = true;
+        log("연결 종료: " + socket);
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
     }
 }
