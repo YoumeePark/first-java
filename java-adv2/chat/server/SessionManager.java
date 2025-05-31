@@ -42,7 +42,6 @@ public class SessionManager {
                 usernames.add(session.getUsername());
             }
         }
-
         return usernames;
     }
 }
