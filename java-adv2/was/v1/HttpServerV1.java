@@ -43,6 +43,7 @@ public class HttpServerV1 {
 
             log("HTTP 응답 생성중...");
             sleep(5000); // 서버 처리 시간
+            responeToClient(writer);
             log("HTTP 응답 전달 완료");
         }
     }
