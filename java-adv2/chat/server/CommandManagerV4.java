@@ -27,7 +27,7 @@ public class CommandManagerV4 implements CommandManager {
         String key = args[0];
 
         // NullObejct Pattern
-        Command command = commands.get(key);
+        Command command = commands.getOrDefault(key, defaultCommand);
         command.execute(args, session);
     }
 }
