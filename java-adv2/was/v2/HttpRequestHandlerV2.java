@@ -60,7 +60,7 @@ public class HttpRequestHandlerV2 implements Runnable {
 
     private void responseToClient(PrintWriter writer) {
         // 웹 브라우저에 전달하는 내용
-        String body = "<h1>Hello World<h1>";
+        String body = "<h1>Hello World</h1>";
         int length = body.getBytes(UTF_8).length;
 
         StringBuilder sb = new StringBuilder();
