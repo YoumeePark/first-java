@@ -6,12 +6,14 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CommandManagerV3 implements CommandManager {
+public class CommandManagerV4 implements CommandManager {
 
     public static final String DELIMITER = "\\|";
-    private final Map<String, Command> commands = new HashMap<>();
+    private final Map<String, Command> commands;
+    private final Command defaultCommand = new DefualtCommand();
 
-    public CommandManagerV3(SessionManager sessionManager) {
+    public CommandManagerV4(SessionManager sessionManager) {
+        commands = new HashMap<>();
         commands.put("/join", new JoinCommand(sessionManager));
         commands.put("/message", new MessageCommand(sessionManager));
         commands.put("/change", new ChangeCommand(sessionManager));
@@ -24,11 +26,8 @@ public class CommandManagerV3 implements CommandManager {
         String[] args = totalMessage.split(DELIMITER);
         String key = args[0];
 
+        // NullObejct Pattern
         Command command = commands.get(key);
-        if (command == null) {
-            session.send("처리할 수 없는 명령어입니다: " + totalMessage);
-            return;
-        }
         command.execute(args, session);
     }
 }
