@@ -4,7 +4,6 @@ import chat.server.command.*;
 
 import java.io.IOException;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class CommandManagerV3 implements CommandManager {
