@@ -21,6 +21,7 @@ public class HttpRequest {
         // 메시지 바디는 이후에 처리
     }
 
+    // GET /search?q=hello HTTP/1.1
     private void parseRequestLine(BufferedReader reader) throws IOException {
         String requestLine = reader.readLine();
         if (requestLine == null) {
@@ -33,13 +34,20 @@ public class HttpRequest {
         }
 
         method = parts[0];
+        // parts[1] = /search?q=hello
         String[] pathParts = parts[1].split("\\?");
         path = pathParts[0];
+        // q=hello 이럴 때도 있지만
+        // key1=value1&key2=value2 이런 경우도 있을 수 있음
         if (pathParts.length > 1) {
             parseQueryParameters(pathParts[1]);
         }
     }
 
+    // q=hello
+    // key1=value1&key2=value2&key3=value3
+    // 키1=값1 -> %키1=%값1
+    // q= (빈값일 때도 있음)
     private void parseQueryParameters(String queryString) {
         for (String param : queryString.split("&")) {
             String[] keyValue = param.split("=");
