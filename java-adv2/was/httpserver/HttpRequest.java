@@ -57,9 +57,12 @@ public class HttpRequest {
         }
     }
 
+    // Host: localhost:12345
+    // Connection: keep-alive
+    // Cache-Control: ma-age=0
     private void parseHeaders(BufferedReader reader) throws IOException {
         String line;
-        while (!(line = reader.readLine()).isEmpty()) {
+        while (!(line = reader.readLine()).isEmpty()) /*공백이 오면 나가겠다*/ {
             String[] headerParts = line.split(":");
             // trim() 앞 뒤에 공백 제거
             headers.put(headerParts[0].trim(), headerParts[1].trim());
