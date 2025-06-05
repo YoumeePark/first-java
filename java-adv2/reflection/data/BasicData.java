@@ -1,4 +1,4 @@
-package relection.data;
+package reflection.data;
 
 public class BasicData {
     public String publicField;
