@@ -1,5 +1,5 @@
 package annotation.basic;
 
-@AnnoElement(value = "data", tags = {"t1"})
+@AnnoElement(value = "data", tags = "t1")
 public class ElementData2 {
 }
