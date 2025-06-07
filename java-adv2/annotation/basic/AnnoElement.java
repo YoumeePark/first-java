@@ -13,7 +13,7 @@ public @interface AnnoElement {
     String[] tags() default {};
 
     // MyLogger data(); // 다른 타입은 적용X
-    // MyLogger는 인터페이스나 애너테이션이 아니라 일반 클래스이기 때문에
+    // MyLogger는 인터페이스나 애노테이션이 아니라 일반 클래스이기 때문에
     // 직접 사용할 수 없다는 걸 보여주는 예시임
     Class<? extends MyLogger> annoData() default MyLogger.class; // 클래스 정보는 가능
 }
