@@ -4,7 +4,6 @@ import was.httpserver.HttpServer;
 import was.httpserver.HttpServlet;
 import was.httpserver.ServletManager;
 import was.httpserver.servlet.DiscardServlet;
-import was.httpserver.servlet.annotation.AnnotationServletV2;
 import was.httpserver.servlet.annotation.AnnotationServletV3;
 
 import java.io.IOException;
